@@ -20,8 +20,7 @@ function multiply($a, $b) {
 }
 
 function divide($a, $b) {
-    $result = $a / $b;
+    $mresult = $a / $b;
 
-    return $result;
+    return $mresult;
 }
-
